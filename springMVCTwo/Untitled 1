@@ -1,0 +1,2 @@
+CREATE TABLE MOBILEONEDATA (mob_id NUMBER(10) PRIMARY KEY,
+mob_name VARCHAR2(30), mob_price NUMBER(15), mob_cato VARCHAR2(15), mob_online varchar2(10))
